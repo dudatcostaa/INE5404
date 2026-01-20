@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Outros arquivos comuns para ignorar em Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+.DS_Store
